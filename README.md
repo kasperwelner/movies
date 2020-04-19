@@ -1,2 +1,2 @@
-# movies
+# Movies
 TMDb movie browser sample
